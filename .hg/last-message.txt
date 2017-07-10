@@ -1,0 +1,1 @@
+we were getting an null pointer deleting states and transitions, i fixed it

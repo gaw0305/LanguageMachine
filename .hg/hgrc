@@ -1,0 +1,10 @@
+[paths]
+default = https://barterd@bitbucket.org/dhimelick/lm
+[ui]
+username = Daniel <barterd@carleton.edu>
+editor = vim
+merge = meld
+[auth]
+bitbucket.prefix = bitbucket.org
+bitbucket.username = barterd
+bitbucket.password = cheddar
